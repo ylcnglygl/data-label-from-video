@@ -12,6 +12,5 @@ Main package of this project is flutter_ffmpeg.
 You should learn about something ffmpeg on Flutter from this [link](https://pub.dev/packages/flutter_ffmpeg)   
 
 
-![lottie](5884-video-movie.gif)
-<img src="5884-video-movie.gif" width="128"/>
+<img src="5884-video-movie.gif" width="512"/>
 
