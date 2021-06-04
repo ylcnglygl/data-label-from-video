@@ -12,5 +12,7 @@ Main package of this project is flutter_ffmpeg.
 You should learn about something ffmpeg on Flutter from this [link](https://pub.dev/packages/flutter_ffmpeg)   
 
 
+You can see the below our lottie file in this project.
+
 <img src="5884-video-movie.gif" width="512"/>
 
