@@ -13,4 +13,5 @@ You should learn about something ffmpeg on Flutter from this [link](https://pub.
 
 
 ![lottie](5884-video-movie.gif)
+<img src="5884-video-movie.gif" width="128"/>
 
