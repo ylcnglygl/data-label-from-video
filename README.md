@@ -12,5 +12,5 @@ Main package of this project is flutter_ffmpeg.
 You should learn about something ffmpeg on Flutter from this [link](https://pub.dev/packages/flutter_ffmpeg)   
 
 
-![lottie](https://assets3.lottiefiles.com/packages/lf20_dodHbH/video.json)
+![lottie](https://lottiefiles.com/iframe/5884-video-movie)
 
